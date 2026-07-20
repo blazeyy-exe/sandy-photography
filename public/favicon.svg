@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#1a1a2e"/>
+  <!-- Camera body -->
+  <rect x="10" y="22" width="44" height="28" rx="6" fill="#2d2d44" stroke="#c9a84c" stroke-width="1.8"/>
+  <!-- Camera top -->
+  <rect x="18" y="18" width="28" height="7" rx="3" fill="#2d2d44" stroke="#c9a84c" stroke-width="1.5"/>
+  <!-- Viewfinder -->
+  <rect x="24" y="16" width="16" height="5" rx="2" fill="#1a1a2e" stroke="#c9a84c" stroke-width="1.2"/>
+  <!-- Flash -->
+  <rect x="46" y="19" width="5" height="4" rx="1" fill="#c9a84c" opacity="0.7"/>
+  <!-- Outer lens ring -->
+  <circle cx="32" cy="36" r="11" fill="#1a1a2e" stroke="#c9a84c" stroke-width="1.8"/>
+  <!-- Inner lens -->
+  <circle cx="32" cy="36" r="8" fill="#1a1a2e" stroke="#c9a84c" stroke-width="1.2"/>
+  <circle cx="32" cy="36" r="5.5" fill="#3a3a5a"/>
+  <circle cx="32" cy="36" r="3" fill="#1a1a2e"/>
+  <!-- Lens glass reflection -->
+  <ellipse cx="29" cy="33" rx="4" ry="2.5" fill="white" opacity="0.08" transform="rotate(-25 29 33)"/>
+  <!-- Shutter button -->
+  <rect x="14" y="18" width="5" height="4" rx="1.5" fill="#c9a84c" opacity="0.85"/>
+  <!-- Mode dial dots -->
+  <circle cx="52" cy="44" r="1" fill="#c9a84c" opacity="0.4"/>
+  <circle cx="52" cy="48" r="1" fill="#c9a84c" opacity="0.4"/>
+</svg>
